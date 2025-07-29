@@ -75,10 +75,3 @@ python breast_cancer_classification.py
 Sample Output
 	•	Training accuracy: 1.0 (perfect fit on training data)
 	•	Test accuracy: 0.974 (97.4% accuracy on unseen test data)
-
-⸻
-
-Notes
-	•	Although the model performs well, be cautious of potential overfitting.
-	•	Visualization and scaling are important preprocessing steps for better model performance.
-	•	Future improvements could include hyperparameter tuning and trying other classification models.
