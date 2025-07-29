@@ -1,5 +1,3 @@
-Sure! Here’s the English README in markdown format for your project:
-
 # Breast Cancer Classification with Random Forest
 
 This project performs breast cancer classification using Python. It includes data preprocessing, visualization, scaling, training, and model evaluation steps.
